@@ -1,3 +1,4 @@
+You can try out the demo live link -https://covid-19-tracker-c27e8.web.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
